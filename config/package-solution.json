@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "holiday-new-template-client-side-solution",
+    "id": "b22ac2ef-4ea6-4bdb-a0d7-25e52f1f80a1",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/holiday-new-template.sppkg"
+  }
+}

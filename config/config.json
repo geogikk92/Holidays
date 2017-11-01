@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/holiday/HolidayWebPart.js",
+      "manifest": "./src/webparts/holiday/HolidayWebPart.manifest.json",
+      "outputPath": "./dist/holiday-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "holidayStrings": "webparts/holiday/loc/{locale}.js"
+  }
+}
